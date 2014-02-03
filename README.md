@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. [Download](archive/master.zip) this repo as a zip file.
+1. [Download](https://github.com/trent-boyd/sublimelinter-minima-theme/archive/master.zip) this repo as a zip file.
 2. Extract `SublimeLinter - Minima Theme` to your `Packages/User` directory.
 3. Restart Sublime.
 4. Go to `Tools > SublimeLinter > Choose Gutter Theme...` and select `Minima` from the list.
