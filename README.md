@@ -6,7 +6,7 @@
 
 ## Installation
 
-1. Download this repo as a zip file.
+1. [Download](archive/master.zip) this repo as a zip file.
 2. Extract `SublimeLinter - Minima Theme` to your `Packages/User` directory.
 3. Restart Sublime.
 4. Go to `Tools > SublimeLinter > Choose Gutter Theme...` and select `Minima` from the list.
@@ -14,9 +14,9 @@
 
 ## Further Configuration
 
-I'm loving the [Spacegray](http://kkga.github.io/spacegray/) theme by @kkga right now, so here's some additional color settings to get these icons to match.
+I'm loving the [Spacegray](http://kkga.github.io/spacegray/) theme by [@kkga](https://github.com/kkga) right now, so here's some additional color settings to get these icons to match.
 
-In your `SublimeLinter.sublime-settings` file (located under your `Packages/User` directory), update `"error_color""` and `"warning_color"` like so:
+In your `SublimeLinter.sublime-settings` file (located under your `Packages/User` directory), update `"error_color"` and `"warning_color"` like so:
 
 ``` json
 {
